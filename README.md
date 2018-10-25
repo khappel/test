@@ -5,6 +5,4 @@ This is an edit to rep
 
 This is an update to the edit
 
-Commit to new branch
 
-Edit only in beta
